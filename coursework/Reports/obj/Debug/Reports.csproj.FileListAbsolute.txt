@@ -1,0 +1,7 @@
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\bin\Debug\Reports.dll
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\bin\Debug\Reports.pdb
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\obj\Debug\Reports.csproj.AssemblyReference.cache
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\obj\Debug\Reports.csproj.CoreCompileInputs.cache
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\obj\Debug\Reports.dll
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\obj\Debug\Reports.pdb
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\Reports\obj\Debug\Reports.csproj.ResolveComReference.cache

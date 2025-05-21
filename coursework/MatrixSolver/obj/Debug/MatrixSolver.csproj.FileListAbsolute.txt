@@ -1,0 +1,6 @@
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\MatrixSolver\bin\Debug\MatrixSolver.dll
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\MatrixSolver\bin\Debug\MatrixSolver.pdb
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\MatrixSolver\obj\Debug\MatrixSolver.csproj.AssemblyReference.cache
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\MatrixSolver\obj\Debug\MatrixSolver.csproj.CoreCompileInputs.cache
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\MatrixSolver\obj\Debug\MatrixSolver.dll
+C:\Users\nikitadeshko\Desktop\Coursework\coursework\MatrixSolver\obj\Debug\MatrixSolver.pdb
